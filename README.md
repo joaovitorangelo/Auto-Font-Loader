@@ -1,6 +1,6 @@
 # Auto Font Loader
 
-**Contribua** com melhorias e reporte problemas através do [GitHub](#) (link fictício).
+Upload de famílias de fontes via ZIP com suporte ao Elementor.
 
 ## 📖 Descrição
 
